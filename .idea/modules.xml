@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Baby_Buy.iml" filepath="$PROJECT_DIR$/.idea/modules/Baby_Buy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Baby_Buy.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Baby_Buy.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Baby_Buy.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Baby_Buy.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Baby_Buy.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Baby_Buy.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Baby_Buy.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Baby_Buy.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recyclerview-swipedecorator/Baby_Buy.recyclerview-swipedecorator.iml" filepath="$PROJECT_DIR$/.idea/modules/recyclerview-swipedecorator/Baby_Buy.recyclerview-swipedecorator.iml" />
+    </modules>
+  </component>
+</project>
